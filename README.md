@@ -1,6 +1,6 @@
 # Rcode-Negera
 This folder contains R codes associated with the article : 
-Deresa, N.W., and Van Keilegom, I.(2018). Flexible parametric model for survival data subject to dependent censoring.
+Deresa, N.W., and Van Keilegom, I. (2018). Flexible parametric model for survival data subject to dependent censoring.
 
 You will find the following files:
 
